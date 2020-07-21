@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm")
     kotlin("kapt")
-    id("com.squareup.hephaestus").version("1.0.1")
+    id("com.squareup.hephaestus")
 }
 
 dependencies {
